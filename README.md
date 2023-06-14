@@ -1,7 +1,7 @@
 <h1> Projeto WebService Spring Boot e JPA/Hibernate </h1>
 
 <h2> Sobre </h2>
-<p> Criação de um webservice de um workshop em Java com Spring Boot, banco de dados H2, JPA/Hibernate com as operações de um CRUD </p>
+<p> Criação de um webservice em Java com Spring Boot, banco de dados H2, JPA/Hibernate com as operações de um CRUD </p>
 
 <h2> Tecnologias utilizadas </h2>
 
